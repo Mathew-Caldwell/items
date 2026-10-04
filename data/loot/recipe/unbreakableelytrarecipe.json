@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:elytra",
+  "addition": "minecraft:netherite_block",
+  "template": "minecraft:netherite_block",
+  "result": {
+    "id": "minecraft:elytra",
+    "components": {
+      "minecraft:unbreakable": {}
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": "minecraft:totem_of_undying",
+  "base": "minecraft:book",
+  "addition": "minecraft:mace",
+  "result": {
+    "id": "minecraft:enchanted_book",
+    "components": {
+      "minecraft:stored_enchantments": { "loot:totem_breaker": 1 }
+    }
+  }
+}

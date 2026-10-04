@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:snowball",
+    "minecraft:cobblestone"
+  ],
+  "result": {
+    "id": "minecraft:snowball",
+    "count": 1,
+    "components": {
+      "minecraft:custom_name": {
+        "text": "Hard Snowball",
+        "color": "red",
+        "italic": false
+      },
+      "minecraft:custom_data": {
+        "hard_snowball": 1
+      },
+      "minecraft:item_model": "minecraft:bedrock"
+    }
+  }
+}

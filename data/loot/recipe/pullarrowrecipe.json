@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": ["minecraft:spectral_arrow", "minecraft:arrow"],
+  "addition": "minecraft:diamond",
+  "template": "minecraft:ender_pearl",
+  "result": {
+    "id": "minecraft:arrow",
+    "components": {
+      "minecraft:custom_name": { "text": "Pull Arrow", "color": "light_purple", "italic": false, "bold": true },
+      "minecraft:custom_data": { "pull_arrow": 1 },
+      "minecraft:item_model": "minecraft:tipped_arrow",
+      "minecraft:potion_contents": { "potion": "minecraft:regeneration" }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "description": "Scythe",
+  "supported_items": "#minecraft:hoes",
+  "weight": 1,
+  "max_level": 5,
+  "min_cost": { "base": 1, "per_level_above_first": 10 },
+  "max_cost": { "base": 50, "per_level_above_first": 10 },
+  "anvil_cost": 4,
+  "slots": ["mainhand"],
+  "effects": {
+    "minecraft:attributes": [
+      {
+        "id": "loot:scythe_damage",
+        "attribute": "minecraft:attack_damage",
+        "operation": "add_value",
+        "amount": { "type": "minecraft:lookup", "values": [4, 5.5, 7, 8.5, 7], "fallback": 7 }
+      },
+      {
+        "id": "loot:scythe_speed",
+        "attribute": "minecraft:attack_speed",
+        "operation": "add_value",
+        "amount": { "type": "minecraft:lookup", "values": [0.6, -0.4, -1.4, -2.4, -2.4], "fallback": -2.4 }
+      }
+    ]
+  }
+}

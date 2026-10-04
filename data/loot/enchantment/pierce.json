@@ -1,0 +1,24 @@
+{
+  "description": "Pierce",
+  "supported_items": "#minecraft:hoes",
+  "weight": 2,
+  "max_level": 5,
+  "min_cost": { "base": 15, "per_level_above_first": 9 },
+  "max_cost": { "base": 65, "per_level_above_first": 9 },
+  "anvil_cost": 4,
+  "slots": ["mainhand"],
+  "effects": {
+    "minecraft:armor_effectiveness": [
+      {
+        "effect": {
+          "type": "minecraft:add",
+          "value": {
+            "type": "minecraft:linear",
+            "base": -0.20,
+            "per_level_above_first": -0.20
+          }
+        }
+      }
+    ]
+  }
+}

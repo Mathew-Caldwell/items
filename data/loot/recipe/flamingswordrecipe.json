@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:netherite_sword",
+  "addition": "minecraft:wind_charge",
+  "template": "minecraft:blaze_powder",
+  "result": {
+    "id": "minecraft:netherite_sword",
+    "components": {
+      "minecraft:custom_name": {
+        "text": "Drake's Breath",
+        "color": "#FB8B23",
+        "italic": false
+      },
+      "minecraft:custom_data": {
+        "flamethrower": 1
+      },
+      "minecraft:item_name": "Drake's Breath",
+      "minecraft:consumable": {
+        "consume_seconds": 100000,
+        "animation": "block",
+        "has_consume_particles": false
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": "minecraft:knowledge_book",
+  "base": "minecraft:book",
+  "addition": "minecraft:knowledge_book",
+  "result": {
+    "id": "minecraft:enchanted_book",
+    "components": {
+      "minecraft:stored_enchantments": { "loot:bleed": 1 }
+    }
+  }
+}

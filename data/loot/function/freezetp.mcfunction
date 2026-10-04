@@ -1,0 +1,1 @@
+$execute anchored eyes positioned ^ ^-0.8 ^$(d) run tp @e[tag=freeze_mine] ~ ~ ~

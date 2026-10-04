@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": [
+    "minecraft:spectral_arrow",
+    "minecraft:arrow"
+  ],
+  "addition": "minecraft:diamond",
+  "template": "minecraft:echo_shard",
+  "result": {
+    "id": "minecraft:arrow",
+    "components": {
+      "minecraft:custom_name": {
+        "text": "Sonic Arrow",
+        "color": "dark_green",
+        "italic": false,
+        "bold": true
+      },
+      "minecraft:custom_data": {
+        "sonic_arrow": 1
+      },
+      "minecraft:item_model": "minecraft:tipped_arrow",
+      "minecraft:potion_contents": { "potion": "minecraft:poison" }
+    }
+  }
+}

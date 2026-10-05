@@ -8,6 +8,7 @@
     "loot:executioner",
     "loot:hex",
     "loot:backstab",
-    "loot:mirror_image"
+    "loot:mirror_image",
+    "loot:reflect"
   ]
 }

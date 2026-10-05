@@ -1,0 +1,1 @@
+$damage @e[tag=reflect_target,limit=1] $(amt) minecraft:thorns by @s

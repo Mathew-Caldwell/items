@@ -30,3 +30,6 @@ Hits have a 30% chance to knock the item out of the target's main hand and onto 
 
 Mirror Image (Levels I-IV)
 When hit spawns decoy copy of player. +1 decory per level
+
+Reflect (Levels 1-III)
+When hit has 5% chance to take no damage and the attacker receives all damage that would have been done. +5% chance per level

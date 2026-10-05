@@ -19,3 +19,6 @@ scoreboard players set @a[scores={hex_death=1..}] hex_death 0
 
 scoreboard players remove @a[scores={mirror_cd=1..}] mirror_cd 1
 execute as @e[type=minecraft:mannequin,tag=mirror_clone] at @s run function loot:mirrortick
+
+execute as @a[scores={reflect_heal=1..}] run function loot:reflectheal
+execute as @a store result score @s reflect_hp run data get entity @s Health 10

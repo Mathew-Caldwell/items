@@ -45,3 +45,5 @@ scoreboard objectives add reflect_heal dummy
 scoreboard players set #5 reflect_hp 5
 scoreboard players set #10 reflect_hp 10
 scoreboard players set #100 reflect_hp 100
+
+scoreboard objectives add rigid_lvl dummy

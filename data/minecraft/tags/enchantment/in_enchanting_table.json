@@ -9,6 +9,7 @@
     "loot:hex",
     "loot:backstab",
     "loot:mirror_image",
-    "loot:reflect"
+    "loot:reflect",
+    "loot:rigid_shock"
   ]
 }

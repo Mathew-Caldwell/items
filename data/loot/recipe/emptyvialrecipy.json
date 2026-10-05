@@ -31,7 +31,7 @@
             "on_consume_effects": [
                 {
                 "type": "minecraft:apply_effects",
-                "effects": [ { "id": "minecraft:instant_health", "amplifier": 0 } ]
+                "effects": [ { "id": "minecraft:instant_health", "amplifier": 1 } ]
                 }
             ]
             },

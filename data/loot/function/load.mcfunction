@@ -34,3 +34,7 @@ scoreboard objectives add hex_hp dummy
 scoreboard objectives add hex_death deathCount
 
 scoreboard objectives add bs_lvl dummy
+
+scoreboard objectives add mirror_lvl dummy
+scoreboard objectives add mirror_cd dummy
+scoreboard objectives add mirror_t dummy

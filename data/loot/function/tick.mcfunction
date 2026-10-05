@@ -16,3 +16,6 @@ scoreboard players reset @a[scores={hex_death=1..}] hex_time
 scoreboard players reset @a[scores={hex_death=1..}] hex_lvl
 scoreboard players reset @a[scores={hex_death=1..}] hex_hp
 scoreboard players set @a[scores={hex_death=1..}] hex_death 0
+
+scoreboard players remove @a[scores={mirror_cd=1..}] mirror_cd 1
+execute as @e[type=minecraft:mannequin,tag=mirror_clone] at @s run function loot:mirrortick

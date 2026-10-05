@@ -49,3 +49,6 @@ Builds charge as you take hits, once full your next hit releases a lightning arc
 |III|4|8 (4 hearts)|3|
 |IV|3|10 (5 hearts)|4|
 |V|2|12 (6 hearts)|5|
+
+Ragnarok (Level I-V)
+Summons large storm clouds over victim where meteors rain down. Lasts for 18s and +3s per level after level 1

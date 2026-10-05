@@ -1,4 +1,4 @@
-scoreboard players set #chance disarm_chk 30
+scoreboard players set #chance disarm_chk 10
 execute store result score #roll disarm_chk run random value 1..100
 execute if score #roll disarm_chk > #chance disarm_chk run return 0
 

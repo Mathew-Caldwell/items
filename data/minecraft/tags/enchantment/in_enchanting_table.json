@@ -11,6 +11,7 @@
     "loot:mirror_image",
     "loot:reflect",
     "loot:rigid_shock",
-    "loot:misty_step"
+    "loot:misty_step",
+    "loot:overcharge"
   ]
 }

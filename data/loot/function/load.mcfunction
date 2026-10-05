@@ -55,3 +55,7 @@ scoreboard objectives add ms_win dummy
 scoreboard objectives add ms_cd dummy
 scoreboard objectives add ms_lvl dummy
 scoreboard players set #20 ms_lvl 20
+
+scoreboard objectives add oc_charge dummy
+scoreboard objectives add oc_lvl dummy
+scoreboard objectives add oc_death deathCount

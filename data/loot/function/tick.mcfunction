@@ -24,3 +24,6 @@ execute as @a[scores={reflect_heal=1..}] run function loot:reflectheal
 execute as @a store result score @s reflect_hp run data get entity @s Health 10
 
 execute as @a at @s run function loot:mistytick
+
+scoreboard players reset @a[scores={oc_death=1..}] oc_charge
+scoreboard players set @a[scores={oc_death=1..}] oc_death 0

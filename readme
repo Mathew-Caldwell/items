@@ -39,3 +39,13 @@ When hit has 5% chance of the attacker dropping the item in their mainhand. +5% 
 
 Misty Step (Level I-V)
 Double crouch to teleport up to 10 blocks. +10 blocks per level after level 1
+
+Overcharge (Level I-V)
+Builds charge as you take hits, once full your next hit releases a lightning arc which chains to nearby enimies.
+|Level|Hits taken to charge|Arc damage|Chain jumps|
+|-----|--------------------|----------|-----------|
+|I|6|4 (2 hearts)| 1|
+|II|5|6 (3 hearts)|2|
+|III|4|8 (4 hearts)|3|
+|IV|3|10 (5 hearts)|4|
+|V|2|12 (6 hearts)|5|

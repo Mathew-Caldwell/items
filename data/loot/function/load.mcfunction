@@ -47,3 +47,11 @@ scoreboard players set #10 reflect_hp 10
 scoreboard players set #100 reflect_hp 100
 
 scoreboard objectives add rigid_lvl dummy
+
+scoreboard objectives add ms_sneak minecraft.custom:minecraft.sneak_time
+scoreboard objectives add ms_prev dummy
+scoreboard objectives add ms_was dummy
+scoreboard objectives add ms_win dummy
+scoreboard objectives add ms_cd dummy
+scoreboard objectives add ms_lvl dummy
+scoreboard players set #20 ms_lvl 20

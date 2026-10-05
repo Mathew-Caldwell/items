@@ -22,3 +22,5 @@ execute as @e[type=minecraft:mannequin,tag=mirror_clone] at @s run function loot
 
 execute as @a[scores={reflect_heal=1..}] run function loot:reflectheal
 execute as @a store result score @s reflect_hp run data get entity @s Health 10
+
+execute as @a at @s run function loot:mistytick

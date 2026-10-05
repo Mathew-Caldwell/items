@@ -7,6 +7,7 @@
   "max_cost": { "base": 50, "per_level_above_first": 0 },
   "anvil_cost": 4,
   "slots": ["mainhand"],
+  "exclusive_set": "loot:zeus_wrath",
   "effects": {
     "minecraft:post_attack": [
       {

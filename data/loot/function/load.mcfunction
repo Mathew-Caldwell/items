@@ -59,3 +59,10 @@ scoreboard players set #20 ms_lvl 20
 scoreboard objectives add oc_charge dummy
 scoreboard objectives add oc_lvl dummy
 scoreboard objectives add oc_death deathCount
+
+scoreboard objectives add rag_lvl dummy
+scoreboard objectives add rag_t dummy
+scoreboard objectives add rag_owner dummy
+scoreboard objectives add rag_id dummy
+scoreboard objectives add rag_cd dummy
+scoreboard players set #5 rag_t 5

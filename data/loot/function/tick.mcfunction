@@ -27,3 +27,7 @@ execute as @a at @s run function loot:mistytick
 
 scoreboard players reset @a[scores={oc_death=1..}] oc_charge
 scoreboard players set @a[scores={oc_death=1..}] oc_death 0
+
+scoreboard players remove @a[scores={rag_cd=1..}] rag_cd 1
+execute as @e[type=minecraft:marker,tag=rag_storm] at @s run function loot:ragnarokstorm
+execute as @e[type=minecraft:marker,tag=rag_meteor] at @s run function loot:ragnarokmeteor

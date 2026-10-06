@@ -74,3 +74,8 @@ scoreboard objectives add frost_id dummy
 scoreboard objectives add frost_cd dummy
 scoreboard objectives add frost_rad dummy
 scoreboard objectives add frost_dmg dummy
+
+scoreboard objectives add dj_used dummy
+scoreboard objectives add dj_jp dummy
+scoreboard objectives add dj_t dummy
+scoreboard objectives add dj_lvl dummy

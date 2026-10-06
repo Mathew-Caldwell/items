@@ -34,3 +34,5 @@ execute as @e[type=minecraft:marker,tag=rag_meteor] at @s run function loot:ragn
 
 scoreboard players remove @a[scores={frost_cd=1..}] frost_cd 1
 execute as @e[type=minecraft:marker,tag=frost_storm] at @s run function loot:frosttick
+
+execute as @a at @s run function loot:djtick

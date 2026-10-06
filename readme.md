@@ -55,3 +55,6 @@ Summons large storm clouds over victim where meteors rain down. Lasts for 18s an
 
 Breath of the Frosts Griant (Level I-V)
 Summons ice tornado around point of contact. Lasts for 18s and +3s per level after level 1. Incompatible with Ragnarok
+
+Jump Booster
+Allows the wearer to jump 3 blocks high

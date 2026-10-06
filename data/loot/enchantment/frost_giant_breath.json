@@ -1,0 +1,20 @@
+{
+  "description": "Breath of the Frost Giant",
+  "supported_items": "#minecraft:hoes",
+  "weight": 1,
+  "max_level": 5,
+  "min_cost": { "base": 25, "per_level_above_first": 10 },
+  "max_cost": { "base": 75, "per_level_above_first": 10 },
+  "anvil_cost": 8,
+  "slots": ["mainhand"],
+  "exclusive_set": "loot:ragnarok",
+  "effects": {
+    "minecraft:post_attack": [
+      {
+        "enchanted": "attacker",
+        "affected": "victim",
+        "effect": { "type": "minecraft:run_function", "function": "loot:frostapply" }
+      }
+    ]
+  }
+}

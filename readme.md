@@ -8,7 +8,7 @@ Pierce (Levels I-V)
 Hits ignore a portion of the target's armor. Each level ignores another 15%, up to 75% at level V.
 
 Zeus Wrath (Levels I-III)
-Calls lightning down on whatever you hit. Each level adds one more bolt.
+Calls lightning down on whatever you hit. Each level adds one more bolt. Incompatible with Disarm
 
 Steal (Levels I-III)
 Hits have a 33%, 50% or 66% chance to strip every status effect from the target and give them to you, keeping their strength and remaining duration.
@@ -26,7 +26,7 @@ Backstab (Levels I-III)
 Hitting a target from behind deals bonus damage of 1.5, 2.5 or 3.5 hearts.
 
 Disarm (Level I)
-Hits have a 30% chance to knock the item out of the target's main hand and onto the ground.
+Hits have a 30% chance to knock the item out of the target's main hand and onto the ground. Incompatible with Zeus Wrath
 
 Mirror Image (Levels I-IV)
 When hit spawns decoy copy of player. +1 decory per level
@@ -51,4 +51,7 @@ Builds charge as you take hits, once full your next hit releases a lightning arc
 |V|2|12 (6 hearts)|5|
 
 Ragnarok (Level I-V)
-Summons large storm clouds over victim where meteors rain down. Lasts for 18s and +3s per level after level 1
+Summons large storm clouds over victim where meteors rain down. Lasts for 18s and +3s per level after level 1. Incompatible with Breath of the Frost Giant
+
+Breath of the Frosts Griant (Level I-V)
+Summons ice tornado around point of contact. Lasts for 18s and +3s per level after level 1. Incompatible with Ragnarok

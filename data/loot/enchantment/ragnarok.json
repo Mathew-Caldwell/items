@@ -7,6 +7,7 @@
   "max_cost": { "base": 80, "per_level_above_first": 10 },
   "anvil_cost": 8,
   "slots": ["mainhand"],
+  "exclusive_set": "loot:frost_giant_breath",
   "effects": {
     "minecraft:post_attack": [
       {

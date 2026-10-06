@@ -31,3 +31,6 @@ scoreboard players set @a[scores={oc_death=1..}] oc_death 0
 scoreboard players remove @a[scores={rag_cd=1..}] rag_cd 1
 execute as @e[type=minecraft:marker,tag=rag_storm] at @s run function loot:ragnarokstorm
 execute as @e[type=minecraft:marker,tag=rag_meteor] at @s run function loot:ragnarokmeteor
+
+scoreboard players remove @a[scores={frost_cd=1..}] frost_cd 1
+execute as @e[type=minecraft:marker,tag=frost_storm] at @s run function loot:frosttick

@@ -66,3 +66,11 @@ scoreboard objectives add rag_owner dummy
 scoreboard objectives add rag_id dummy
 scoreboard objectives add rag_cd dummy
 scoreboard players set #5 rag_t 5
+
+scoreboard objectives add frost_lvl dummy
+scoreboard objectives add frost_t dummy
+scoreboard objectives add frost_owner dummy
+scoreboard objectives add frost_id dummy
+scoreboard objectives add frost_cd dummy
+scoreboard objectives add frost_rad dummy
+scoreboard objectives add frost_dmg dummy

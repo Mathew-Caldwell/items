@@ -8,6 +8,7 @@
     "components": {
       "minecraft:custom_name": { "text": "Freeze Ray", "color": "aqua", "italic": false, "bold": true },
       "minecraft:custom_data": { "freeze_ray": 1 },
+      "minecraft:enchantment_glint_override": true,
       "minecraft:consumable": {
         "consume_seconds": 100000,
         "animation": "none",

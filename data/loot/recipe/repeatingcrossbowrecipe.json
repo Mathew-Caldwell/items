@@ -1,8 +1,8 @@
 {
   "type": "minecraft:smithing_transform",
   "base": "minecraft:crossbow",
-  "addition": "minecraft:sugar",
-  "template": "minecraft:sugar",
+  "addition": "minecraft:iron_block",
+  "template": "minecraft:redstone_block",
   "result": {
     "id": "minecraft:crossbow",
     "components": {

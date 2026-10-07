@@ -15,6 +15,7 @@
         "flamethrower": 1
       },
       "minecraft:item_name": "Drake's Breath",
+      "minecraft:enchantment_glint_override": true,
       "minecraft:consumable": {
         "consume_seconds": 100000,
         "animation": "block",

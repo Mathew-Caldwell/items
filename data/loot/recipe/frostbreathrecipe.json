@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": "minecraft:nether_star",
+  "base": "minecraft:book",
+  "addition": "minecraft:blue_ice",
+  "result": {
+    "id": "minecraft:enchanted_book",
+    "components": {
+      "minecraft:stored_enchantments": { "loot:frost_giant_breath": 1 }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": "minecraft:anvil",
+  "base": "minecraft:book",
+  "addition": "minecraft:obsidian",
+  "result": {
+    "id": "minecraft:enchanted_book",
+    "components": {
+      "minecraft:stored_enchantments": { "loot:rigid_shock": 1 }
+    }
+  }
+}

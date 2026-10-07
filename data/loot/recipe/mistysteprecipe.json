@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": "minecraft:ender_pearl",
+  "base": "minecraft:book",
+  "addition": "minecraft:wind_charge",
+  "result": {
+    "id": "minecraft:enchanted_book",
+    "components": {
+      "minecraft:stored_enchantments": { "loot:misty_step": 1 }
+    }
+  }
+}

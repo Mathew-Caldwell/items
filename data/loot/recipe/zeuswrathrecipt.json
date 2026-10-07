@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": "minecraft:lightning_rod",
+  "base": "minecraft:book",
+  "addition": "minecraft:anvil",
+  "result": {
+    "id": "minecraft:enchanted_book",
+    "components": {
+      "minecraft:stored_enchantments": { "loot:zeus_wrath": 1 }
+    }
+  }
+}

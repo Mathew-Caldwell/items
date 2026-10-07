@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": "minecraft:netherite_axe",
+  "base": "minecraft:book",
+  "addition": "minecraft:diamond_block",
+  "result": {
+    "id": "minecraft:enchanted_book",
+    "components": {
+      "minecraft:stored_enchantments": { "loot:disarm": 1 }
+    }
+  }
+}

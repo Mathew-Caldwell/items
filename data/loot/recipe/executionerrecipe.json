@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": "minecraft:diamond_axe",
+  "base": "minecraft:book",
+  "addition": "minecraft:diamond_sword",
+  "result": {
+    "id": "minecraft:enchanted_book",
+    "components": {
+      "minecraft:stored_enchantments": { "loot:executioner": 1 }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": "minecraft:fermented_spider_eye",
+  "base": "minecraft:book",
+  "addition": "minecraft:rabbit_foot",
+  "result": {
+    "id": "minecraft:enchanted_book",
+    "components": {
+      "minecraft:stored_enchantments": { "loot:hex": 1 }
+    }
+  }
+}

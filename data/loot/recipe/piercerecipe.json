@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": "minecraft:spectral_arrow",
+  "base": "minecraft:book",
+  "addition": "minecraft:arrow",
+  "result": {
+    "id": "minecraft:enchanted_book",
+    "components": {
+      "minecraft:stored_enchantments": { "loot:pierce": 1 }
+    }
+  }
+}

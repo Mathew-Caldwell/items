@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": "minecraft:feather",
+  "base": "minecraft:book",
+  "addition": "minecraft:rabbit_foot",
+  "result": {
+    "id": "minecraft:enchanted_book",
+    "components": {
+      "minecraft:stored_enchantments": { "loot:jump_booster": 1 }
+    }
+  }
+}

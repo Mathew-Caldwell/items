@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": "minecraft:end_crystal",
+  "base": "minecraft:book",
+  "addition": "minecraft:ender_pearl",
+  "result": {
+    "id": "minecraft:enchanted_book",
+    "components": {
+      "minecraft:stored_enchantments": { "loot:mirror_image": 1 }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": "minecraft:prismarine_crystals",
+  "base": "minecraft:book",
+  "addition": "minecraft:amethyst_shard",
+  "result": {
+    "id": "minecraft:enchanted_book",
+    "components": {
+      "minecraft:stored_enchantments": { "loot:overcharge": 1 }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": "minecraft:phantom_membrane",
+  "base": "minecraft:book",
+  "addition": "minecraft:heart_of_the_sea",
+  "result": {
+    "id": "minecraft:enchanted_book",
+    "components": {
+      "minecraft:stored_enchantments": { "loot:backstab": 1 }
+    }
+  }
+}

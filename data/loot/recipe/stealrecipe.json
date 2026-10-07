@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": "minecraft:enchanted_golden_apple",
+  "base": "minecraft:book",
+  "addition": "minecraft:potion",
+  "result": {
+    "id": "minecraft:enchanted_book",
+    "components": {
+      "minecraft:stored_enchantments": { "loot:steal": 1 }
+    }
+  }
+}

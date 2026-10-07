@@ -97,7 +97,8 @@ Double crouch to teleport up to 10 blocks. +10 blocks per level after level 1
 <img width="300" height="68" alt="2026-10-07_19 55 32_edited" src="https://github.com/user-attachments/assets/3e5f61e2-19ca-4ee1-bb39-ee3eccbe35e2" />  
 
 **Overcharge** (Chestplate Level I-V)  
-Builds charge as you take hits, once full your next hit releases a lightning arc which chains to nearby enimies.
+Builds charge as you take hits, once full your next hit releases a lightning arc which chains to nearby enimies.  
+<img width="300" height="68" alt="2026-10-07_19 56 40_edited" src="https://github.com/user-attachments/assets/39715e30-6d4b-4b02-8b19-04df07ee4c4d" />
 |Level|Hits taken to charge|Arc damage|Chain jumps|
 |-----|--------------------|----------|-----------|
 |I|6|4 (2 hearts)| 1|
@@ -105,7 +106,7 @@ Builds charge as you take hits, once full your next hit releases a lightning arc
 |III|4|8 (4 hearts)|3|
 |IV|3|10 (5 hearts)|4|
 |V|2|12 (6 hearts)|5|
-<img width="300" height="68" alt="2026-10-07_19 56 40_edited" src="https://github.com/user-attachments/assets/39715e30-6d4b-4b02-8b19-04df07ee4c4d" />  
+
 
 **Ragnarok** (Hoe Level I-V)  
 Summons large storm clouds over victim where meteors rain down. Lasts for 18s and +3s per level after level 1. Incompatible with Breath of the Frost Giant  

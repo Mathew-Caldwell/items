@@ -36,3 +36,6 @@ scoreboard players remove @a[scores={frost_cd=1..}] frost_cd 1
 execute as @e[type=minecraft:marker,tag=frost_storm] at @s run function loot:frosttick
 
 execute as @a at @s run function loot:djtick
+
+scoreboard players remove @a[scores={rc_cd=1..}] rc_cd 1
+execute as @a[scores={rc_staff=1..}] at @s run function loot:crescentstaff

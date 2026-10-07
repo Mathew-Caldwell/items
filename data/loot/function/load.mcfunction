@@ -79,3 +79,7 @@ scoreboard objectives add dj_used dummy
 scoreboard objectives add dj_jp dummy
 scoreboard objectives add dj_t dummy
 scoreboard objectives add dj_lvl dummy
+
+scoreboard objectives add rc_staff minecraft.used:minecraft.carrot_on_a_stick
+scoreboard objectives add rc_cd dummy
+scoreboard objectives add rc_step dummy

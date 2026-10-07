@@ -1,3 +1,15 @@
+# Items
+**Sonic Arrow**  
+**Electric Arrow**  
+**Pull Arrow**  
+**Repeating Crossbow**  
+**Hard Snowball**  
+**Blood Vial**  
+**Drakes Breath**  
+**Freeze Ray**
+**Compressed Totem**  
+**Crescent Staff**  
+
 # Enchantments
 **Scythe** (Hoe Levels I-V)  
 Reforges the hoe into a real weapon. Its damage and attack speed are raised to match the sword of the chosen tier: I is wood or gold, II stone, III iron, IV diamond, V netherite.

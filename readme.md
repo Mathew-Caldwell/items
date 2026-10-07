@@ -1,14 +1,43 @@
 # Items
 **Sonic Arrow**  
+When fired has a sonic boom trail and on impact explodes.  
+<img width="300" height="68" alt="2026-10-07_15 31 47_edited" src="https://github.com/user-attachments/assets/d150b732-bb04-4f75-9900-ced6ccc0f8c4" />  
+
 **Electric Arrow**  
+On impact summons lightning with explosive effect  
+<img width="300" height="68" alt="2026-10-07_15 40 04_edited" src="https://github.com/user-attachments/assets/a12d96ea-fd7f-4ed0-b8a1-5f9bb26a5aa9" />  
+
 **Pull Arrow**  
+On hit pulls entity towards the firer.  
+<img width="300" height="68" alt="2026-10-07_15 41 30_edited" src="https://github.com/user-attachments/assets/a395235a-e22d-4051-b54e-53f3a0b702f4" />  
+
 **Repeating Crossbow**  
+Crossbow with little to no cool down.  
+<img width="300" height="68" alt="2026-10-07_15 48 01_edited" src="https://github.com/user-attachments/assets/481fbf06-d1ef-4993-a342-341f4d2bba20" />  
+
 **Hard Snowball**  
+Exactly what you expect.  
+<img width="300" height="207" alt="2026-10-07_15 45 35_edited" src="https://github.com/user-attachments/assets/10b2e6e7-bffe-4271-949a-d7536c74ab04" />  
+
 **Blood Vial**  
+Obtained by crafting an empty vial with iron nugget and a glass bottle then hold use item to transfer blood into it.  
+<img width="300" height="207" alt="2026-10-07_16 00 42_edited" src="https://github.com/user-attachments/assets/f2d198aa-c3a9-4e29-a366-546939152658" />  
+
 **Drakes Breath**  
-**Freeze Ray**
+Flame thrower on a sword.  
+<img width="300" height="68" alt="2026-10-07_15 54 35_edited" src="https://github.com/user-attachments/assets/dcbbfa09-7e45-4fa1-890d-c870c9ae562f" />  
+
+**Freeze Ray**  
+Hold right click while looking at an entity to freeze it and move it around.  
+<img width="300" height="68" alt="2026-10-07_15 52 34_edited" src="https://github.com/user-attachments/assets/9457ff86-2e55-47b9-8540-fac2e2e11d2c" />  
+
 **Compressed Totem**  
+Double the totems, double the fun.  
+<img width="300" height="68" alt="2026-10-07_15 49 14_edited" src="https://github.com/user-attachments/assets/016027af-b30f-4aa0-bd55-1beb945f2914" />  
+
 **Crescent Staff**  
+Right click to release powerful beam.  
+<img width="300" height="68" alt="2026-10-07_15 56 32_edited" src="https://github.com/user-attachments/assets/4d447641-4706-4ee0-b4cb-84c5f3f779d5" />  
 
 # Enchantments
 **Scythe** (Hoe Levels I-V)  

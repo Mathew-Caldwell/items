@@ -39,6 +39,34 @@ Double the totems, double the fun.
 Right click to release powerful beam.  
 <img width="300" height="68" alt="2026-10-07_15 56 32_edited" src="https://github.com/user-attachments/assets/4d447641-4706-4ee0-b4cb-84c5f3f779d5" />  
 
+**Ender's Decree**  
+Right click to teleport 20 blocks up.  
+<img width="300" height="150" alt="2026-10-08_22 36 09_edited" src="https://github.com/user-attachments/assets/b1b14a8d-0b0d-4167-ae65-3a0a32fdb807" />
+
+**Beacon of Immortality**  
+Infinite enchanted golden apple.  
+<img width="300" height="150" alt="2026-10-08_22 38 50_edited" src="https://github.com/user-attachments/assets/63e4f92a-c1d2-41a0-bfd8-896b11c44aa0" />
+
+**Immortality Essence**  
+Hold in your inventory to gain extra row of hearts.  
+<img width="300" height="150" alt="2026-10-08_22 40 01_edited" src="https://github.com/user-attachments/assets/dc825591-4119-4eba-9cec-50bb40a83c17" />
+
+**Crimson Ignition**  
+Hold right click to charge up powerful beam. Don't miss because you only get one shot.  
+<img width="300" height="150" alt="2026-10-08_22 41 12_edited" src="https://github.com/user-attachments/assets/628b1e02-59e4-4d33-9f83-4d2922e27fbd" />
+
+**Promise**  
+Right click to dash forwards and preform a slam attack. You might get wet.  
+<img width="300" height="150" alt="2026-10-08_22 42 12_edited" src="https://github.com/user-attachments/assets/eded4374-c929-48f3-9abe-55284c445022" />
+
+**Soul Energy**  
+Releases powerful beam exploding and turning surrounding ground into sculk. Be carful where you use it.  
+<img width="300" height="150" alt="2026-10-08_22 43 14_edited_2" src="https://github.com/user-attachments/assets/0ec8d493-0227-4f99-b943-6727e9a8462b" />
+
+**Soul Reaper**  
+Right click to harvest the souls of all entities with in its radius. All entities get wither as they have now lost their soul.
+<img width="300" height="150" alt="2026-10-08_22 44 28_edited" src="https://github.com/user-attachments/assets/0dc85e29-e28c-44fe-b9d1-e9a5dce9297c" />  
+
 # Enchantments
 **Scythe** (Hoe Levels I-V)  
 Reforges the hoe into a real weapon. Its damage and attack speed are raised to match the sword of the chosen tier: I is wood or gold, II stone, III iron, IV diamond, V netherite.  

@@ -1,0 +1,4 @@
+{
+  "criteria": { "use": { "trigger": "minecraft:using_item" } },
+  "rewards": { "function": "loot:soul/use" }
+}

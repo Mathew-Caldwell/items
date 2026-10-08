@@ -1,0 +1,40 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ENE",
+    "NCN",
+    "ENE"
+  ],
+  "key": {
+    "E": "echo_shard",
+    "N": "netherite_ingot",
+    "C": "end_crystal"
+    },
+  "result": {
+    "id": "minecraft:echo_shard",
+    "count": 1,
+    "components": {
+      "minecraft:custom_name": {
+        "text": "Soul Energy",
+        "color": "aqua",
+        "italic": false,
+        "bold": true
+      },
+      "minecraft:enchantment_glint_override": true,
+      "minecraft:custom_data": {
+        "gt_soul": true
+      },
+      "minecraft:max_stack_size": 1,
+      "minecraft:consumable": {
+        "consume_seconds": 1000000.0,
+        "animation": "none",
+        "has_consume_particles": false
+      },
+      "minecraft:food": {
+        "nutrition": 0,
+        "saturation": 0.0,
+        "can_always_eat": true
+      }
+    }
+  }
+}

@@ -11,5 +11,5 @@ execute if score @s oc_charge >= #need oc_lvl run return 0
 
 scoreboard players add @s oc_charge 1
 particle minecraft:electric_spark ~ ~1 ~ 0.3 0.5 0.3 0.2 12 force
-execute if score @s oc_charge >= #need oc_lvl run return run function loot:ocfull
+execute if score @s oc_charge >= #need oc_lvl run return run function loot:overcharge/ocfull
 title @s actionbar [{"text":"Charge ","color":"yellow"},{"score":{"name":"@s","objective":"oc_charge"}},{"text":"/"},{"score":{"name":"#need","objective":"oc_lvl"}}]

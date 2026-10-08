@@ -14,4 +14,4 @@ execute if score #roll steal_lvl > #chance steal_lvl run return 0
 data modify storage loot:steal effects set from entity @s active_effects
 effect clear @s
 particle minecraft:witch ~ ~1 ~ 0.3 0.5 0.3 0.1 25 force
-execute on attacker run function loot:stealgive
+execute on attacker run function loot:steal/stealgive

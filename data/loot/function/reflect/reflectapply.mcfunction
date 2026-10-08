@@ -26,7 +26,7 @@ scoreboard players add #pct reflect_hp 100
 scoreboard players operation #drop reflect_hp *= #pct reflect_hp
 scoreboard players operation #drop reflect_hp /= #100 reflect_hp
 execute store result storage loot:reflect amt double 0.1 run scoreboard players get #drop reflect_hp
-function loot:reflectdmg with storage loot:reflect
+function loot:reflect/reflectdmg with storage loot:reflect
 
 particle minecraft:enchanted_hit ~ ~1 ~ 0.4 0.6 0.4 0.3 30 force
 playsound minecraft:item.shield.block player @a ~ ~ ~ 1 1.4

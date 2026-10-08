@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "HNH",
+    "NTN",
+    "HNH"
+  ],
+  "key": {
+    "H": "heart_of_the_sea",
+    "N": "nautilus_shell",
+    "T": "trident"
+  },
+  "result": {
+    "id": "minecraft:netherite_nautilus_armor",
+    "count": 1,
+    "components": {
+      "item_model": "trident",
+      "minecraft:custom_name": {
+        "text": "Promise",
+        "color": "blue",
+        "italic": false,
+        "bold": true
+      },
+      "minecraft:enchantment_glint_override": true,
+      "minecraft:custom_data": {
+        "gt_poseidon": true
+      },
+      "minecraft:max_stack_size": 1,
+      "minecraft:consumable": {
+        "consume_seconds": 1000000.0,
+        "animation": "trident",
+        "has_consume_particles": false
+      },
+      "minecraft:food": {
+        "nutrition": 0,
+        "saturation": 0.0,
+        "can_always_eat": true
+      }
+    }
+  }
+}

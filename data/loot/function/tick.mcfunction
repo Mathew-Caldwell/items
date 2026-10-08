@@ -56,7 +56,7 @@ execute as @a[scores={gt_charge=1..}] at @s run function loot:crimson/charge_tic
 scoreboard players remove @a[scores={gt_holding=1..}] gt_holding 1
 # Poseidon smash on land
 scoreboard players remove @a[scores={gt_pos_smash=1..}] gt_pos_smash 1
-#execute as @a[scores={gt_pos_smash=1..}] at @s if entity @s[nbt={OnGround:1b}] run function loot:poseidon/smash
+execute as @a[scores={gt_pos_smash=1..}] at @s if entity @s[nbt={OnGround:1b}] run function loot:poseidon/smash
 # Shatter cores
 #execute as @e[type=marker,tag=gt_shatter_core] at @s run function loot:shatter/core_tick
 # Passives

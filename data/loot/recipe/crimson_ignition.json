@@ -1,0 +1,62 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "LTL",
+    "GSF",
+    "LEL"
+  ],
+  "key": {
+    "L": "minecraft:magma_cream",
+    "T": "minecraft:trident",
+    "S": "minecraft:netherite_spear",
+    "E": "minecraft:enchanted_golden_apple",
+    "G": "minecraft:enchanted_book",
+    "F": "minecraft:enchanted_book"
+  },
+  "result": {
+    "id": "minecraft:netherite_spear",
+    "components": {
+      "minecraft:custom_name": {
+        "text": "Crimson Ignition",
+        "color": "#e74c3c",
+        "italic": false
+      },
+      "minecraft:lore": [
+        {
+          "text": "Hold right-click to charge (particle circle).",
+          "color": "gray",
+          "italic": false
+        },
+        {
+          "text": "Release: piercing crimson beam.",
+          "color": "gray",
+          "italic": false
+        },
+        {
+          "text": "Passive: Strength III + Fire Resistance.",
+          "color": "gray",
+          "italic": false
+        }
+      ],
+      "minecraft:enchantment_glint_override": true,
+      "minecraft:custom_data": {
+        "gt_crimson": true
+      },
+      "minecraft:consumable": {
+        "consume_seconds": 1000000.0,
+        "animation": "none",
+        "sound": "minecraft:intentionally_empty",
+        "has_consume_particles": false
+      },
+      "minecraft:food": {
+        "nutrition": 0,
+        "saturation": 0.0,
+        "can_always_eat": true
+      },
+      "minecraft:damage": 1,
+      "minecraft:max_damage": 1
+    },
+    "count": 1
+  }
+}

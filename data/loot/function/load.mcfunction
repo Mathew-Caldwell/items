@@ -85,20 +85,23 @@ scoreboard objectives add rc_cd dummy
 scoreboard objectives add rc_step dummy
 
 scoreboard objectives add gt_tmp dummy
+scoreboard objectives add gt_cd dummy
+scoreboard objectives add gt_charge dummy
+scoreboard objectives add gt_holding dummy
+scoreboard objectives add gt_jhold dummy
 scoreboard objectives add gt_scd dummy
+scoreboard objectives add gt_shcd dummy
 scoreboard objectives add gt_ccd dummy
 scoreboard objectives add gt_gcd dummy
 scoreboard objectives add gt_pcd dummy
 scoreboard objectives add gt_phcd dummy
 scoreboard objectives add gt_rcd dummy
 scoreboard objectives add gt_dcd dummy
-scoreboard objectives add gt_poscd dummy
-scoreboard objectives add gt_pos_smash dummy
-scoreboard objectives add gt_endcd dummy
-scoreboard objectives add gt_shcd dummy
-scoreboard objectives add gt_charge dummy
-scoreboard objectives add gt_holding dummy
-scoreboard objectives add gt_jhold dummy
+scoreboard objectives add gt_bcd dummy
 scoreboard objectives add gt_baura dummy
+scoreboard objectives add gt_gscd dummy
 scoreboard objectives add gt_life dummy
+scoreboard objectives add gt_scharge dummy
 scoreboard players set #10 gt_tmp 10
+scoreboard players set #20 gt_tmp 20
+scoreboard players set #-1 gt_tmp -1

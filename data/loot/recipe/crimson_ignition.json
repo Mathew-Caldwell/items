@@ -2,17 +2,14 @@
   "type": "minecraft:crafting_shaped",
   "category": "equipment",
   "pattern": [
-    "LTL",
-    "GSF",
-    "LEL"
+    "NMN",
+    "MSM",
+    "NMN"
   ],
   "key": {
-    "L": "minecraft:magma_cream",
-    "T": "minecraft:trident",
-    "S": "minecraft:netherite_spear",
-    "E": "minecraft:enchanted_golden_apple",
-    "G": "minecraft:enchanted_book",
-    "F": "minecraft:enchanted_book"
+    "N": "minecraft:netherite_block",
+    "M": "minecraft:mace",
+    "S": "minecraft:netherite_spear"
   },
   "result": {
     "id": "minecraft:netherite_spear",
@@ -41,7 +38,8 @@
       ],
       "minecraft:enchantment_glint_override": true,
       "minecraft:custom_data": {
-        "gt_crimson": true
+        "gt_crimson": true,
+        "crimson_ignition": 1
       },
       "minecraft:consumable": {
         "consume_seconds": 1000000.0,
@@ -53,9 +51,7 @@
         "nutrition": 0,
         "saturation": 0.0,
         "can_always_eat": true
-      },
-      "minecraft:damage": 1,
-      "minecraft:max_damage": 1
+      }
     },
     "count": 1
   }

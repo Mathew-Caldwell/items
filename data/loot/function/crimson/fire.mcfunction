@@ -10,4 +10,6 @@ particle minecraft:lava ~ ~1 ~ 0.4 0.5 0.4 0.05 20 force
 execute at @s anchored eyes positioned ^ ^ ^1 run function loot:crimson/step
 tag @e[tag=gt_hit] remove gt_hit
 tag @s remove gt_shooter
-title @s actionbar {"text":"Crimson Beam!","color":"red","bold":true}
+title @s actionbar {"text":"cunt Beam!","color":"red","bold":true}
+clear @s netherite_spear[custom_data~{crimson_ignition:1b}] 1
+

@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CSP",
+    "SMS",
+    "PSC"
+  ],
+  "key": {
+    "C": "end_crystal",
+    "S": "echo_shard",
+    "M": "mace",
+    "P": "popped_chorus_fruit"
+  },
+  "result": {
+    "id": "minecraft:mace",
+    "count": 1,
+    "components": {
+      "minecraft:custom_name": {
+        "text": "Ender's Decree",
+        "color": "light_purple",
+        "italic": false,
+        "bold": true
+      },
+      "minecraft:enchantment_glint_override": true,
+      "minecraft:custom_data": {
+        "gt_decree": true
+      },
+      "minecraft:max_stack_size": 1,
+      "minecraft:consumable": {
+        "consume_seconds": 1000000.0,
+        "animation": "none",
+        "has_consume_particles": false
+      },
+      "minecraft:food": {
+        "nutrition": 0,
+        "saturation": 0.0,
+        "can_always_eat": true
+      }
+    }
+  }
+}

@@ -62,6 +62,5 @@ execute as @a[scores={gt_pos_smash=1..}] at @s if entity @s[nbt={OnGround:1b}] r
 # Passives
 execute as @a if items entity @s weapon.mainhand minecraft:netherite_spear[minecraft:custom_data~{gt_crimson:1b}] run effect give @s strength 2 2 true
 execute as @a if items entity @s weapon.mainhand minecraft:netherite_spear[minecraft:custom_data~{gt_crimson:1b}] run effect give @s fire_resistance 2 0 true
-execute as @a if items entity @s container.* minecraft:nether_star[minecraft:custom_data~{gt_immortal:1b}] run effect give @s absorption 5 4 true
-execute as @a if items entity @s weapon.* minecraft:nether_star[minecraft:custom_data~{gt_immortal:1b}] run effect give @s absorption 5 4 true
-#execute as @a[scores={gt_baura=1..}] at @s run function loot:beacon/aura_tick
+execute as @a if items entity @s container.* minecraft:nether_star[minecraft:custom_data~{gt_immortal:1b}] run effect give @s health_boost 5 4 true
+execute as @a if items entity @s weapon.* minecraft:nether_star[minecraft:custom_data~{gt_immortal:1b}] run effect give @s health_boost 5 4 true

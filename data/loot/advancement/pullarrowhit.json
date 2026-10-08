@@ -4,5 +4,5 @@
       "trigger": "minecraft:player_hurt_entity"
     }
   },
-  "rewards": { "function": "loot:pullarrowhittick" }
+  "rewards": { "function": "loot:arrows/pullarrowhittick" }
 }

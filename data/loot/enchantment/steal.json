@@ -12,7 +12,7 @@
       {
         "enchanted": "attacker",
         "affected": "victim",
-        "effect": { "type": "minecraft:run_function", "function": "loot:stealapply" }
+        "effect": { "type": "minecraft:run_function", "function": "loot:steal/stealapply" }
       }
     ]
   }

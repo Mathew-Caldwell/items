@@ -1,4 +1,4 @@
 {
   "criteria": { "use": { "trigger": "minecraft:using_item" } },
-  "rewards": { "function": "loot:freezeuse" }
+  "rewards": { "function": "loot:freezeray/freezeuse" }
 }

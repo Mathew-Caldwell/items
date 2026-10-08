@@ -12,7 +12,7 @@
       {
         "enchanted": "victim",
         "affected": "victim",
-        "effect": { "type": "minecraft:run_function", "function": "loot:mirrorapply" }
+        "effect": { "type": "minecraft:run_function", "function": "loot:mirrorimage/mirrorapply" }
       }
     ]
   }

@@ -1,2 +1,0 @@
-$summon minecraft:mannequin ~ ~ ~ {Tags:["mirror_clone","mirror_new"],profile:{id:$(uuid)},hide_description:1b}
-execute as @e[type=minecraft:mannequin,tag=mirror_new,limit=1,sort=nearest] run function loot:mirrorsetup

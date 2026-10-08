@@ -12,7 +12,7 @@
       {
         "enchanted": "attacker",
         "affected": "victim",
-        "effect": { "type": "minecraft:run_function", "function": "loot:totembreak" }
+        "effect": { "type": "minecraft:run_function", "function": "loot:totembreaker/totembreak" }
       }
     ]
   }

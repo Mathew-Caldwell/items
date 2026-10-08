@@ -13,7 +13,7 @@
       {
         "enchanted": "attacker",
         "affected": "victim",
-        "effect": { "type": "minecraft:run_function", "function": "loot:disarmapply" }
+        "effect": { "type": "minecraft:run_function", "function": "loot:disarm/disarmapply" }
       }
     ]
   }

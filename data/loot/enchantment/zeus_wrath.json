@@ -13,7 +13,7 @@
       {
         "enchanted": "attacker",
         "affected": "victim",
-        "effect": { "type": "minecraft:run_function", "function": "loot:zeusapply" }
+        "effect": { "type": "minecraft:run_function", "function": "loot:zeus/zeusapply" }
       }
     ]
   }

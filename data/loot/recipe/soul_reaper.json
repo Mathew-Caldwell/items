@@ -1,0 +1,40 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CWC",
+    "WHW",
+    "CWC"
+  ],
+  "key": {
+    "C": "recovery_compass",
+    "W": "wither_rose",
+    "H": "netherite_hoe" 
+  },
+  "result": {
+    "id": "minecraft:netherite_hoe",
+    "count": 1,
+    "components": {
+      "minecraft:custom_name": {
+        "text": "Soul Reaper",
+        "color": "dark_aqua",
+        "italic": false,
+        "bold": true
+      },
+      "minecraft:enchantment_glint_override": true,
+      "minecraft:custom_data": {
+        "gt_reaper": true
+      },
+      "minecraft:max_stack_size": 1,
+      "minecraft:consumable": {
+        "consume_seconds": 1000000.0,
+        "animation": "none",
+        "has_consume_particles": false
+      },
+      "minecraft:food": {
+        "nutrition": 0,
+        "saturation": 0.0,
+        "can_always_eat": true
+      }
+    }
+  }
+}

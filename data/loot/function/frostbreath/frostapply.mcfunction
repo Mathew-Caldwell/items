@@ -3,4 +3,4 @@ execute on attacker store result score #lvl frost_lvl run data get entity @s Sel
 #tellraw @a [{"text":"lvl="},{"score":{"name":"#lvl","objective":"frost_lvl"}}]
 #execute on attacker run tellraw @a [{"text":"cd="},{"score":{"name":"@s","objective":"frost_cd"}}]
 execute unless score #lvl frost_lvl matches 1.. run return 0
-execute on attacker run function loot:froststart
+execute on attacker run function loot:frostbreath/froststart
